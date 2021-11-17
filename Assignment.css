@@ -33,7 +33,7 @@ p
 .button
 {
     
-    position: fixed;
+/*  position: fixed; */
     bottom: 15vh;
     right: 34vw;
     display: grid;
